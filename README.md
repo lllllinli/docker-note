@@ -22,7 +22,7 @@ https://www.docker.com/toolbox
 筆記位置：
 
 - [/note](https://github.com/lllllinli/docker-note/tree/master/notes)
-    - (base) ```映像檔``` [/image](https://github.com/lllllinli/docker-note/tree/master/notes/image.md)
+    - (base) ```映像檔``` [/image](https://github.com/lllllinli/docker-note/tree/master/notes/docker-note-image.md)
 
 參考網站：
 
