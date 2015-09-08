@@ -1,5 +1,7 @@
 #本機安裝
 
+##快速安裝
+
 本機安裝 Docker 請利用 Docker Toolbox 。
 
 安裝網址：
@@ -18,7 +20,8 @@ Docker office site 。 [Link](https://www.docker.com/toolbox)
 - Delivery Format
 
 
-筆記位置：
+
+筆記目錄：
 
 - [/note](https://github.com/lllllinli/docker-note/tree/master/notes)
     - (base) ```映像檔``` [/image](https://github.com/lllllinli/docker-note/tree/master/notes/docker-note-image.md)
